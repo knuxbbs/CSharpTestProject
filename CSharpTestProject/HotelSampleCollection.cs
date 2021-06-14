@@ -1,6 +1,6 @@
 namespace CSharpTestProject
 {
-    public class HotelCollectionFixture
+    public class HotelSampleCollection
     {
         public Hotel[] Collection =
         {
